@@ -1,0 +1,3 @@
+rootProject.name = "LearnFFmpegPlayer"
+include ':app'
+include ':ffmpeg'
